@@ -106,8 +106,3 @@ The project demonstrates analog audio circuit design, signal shaping, and PCB im
 - Pick and Place
 
 ---
-
-## 📸 Future Additions
-- PCB photos
-- Audio samples / recordings
-- Oscilloscope captures of clean vs distorted signal
