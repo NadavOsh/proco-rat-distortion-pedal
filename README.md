@@ -92,7 +92,6 @@ The project demonstrates analog audio circuit design, signal shaping, and PCB im
 ---
 
 ## ⚠️ Limitations / Improvements
-- No true bypass switching (if not implemented)
 - Power filtering can be improved to reduce noise
 - Op-amp selection can be optimized for different tonal characteristics
 - Could add switchable clipping modes
@@ -103,6 +102,8 @@ The project demonstrates analog audio circuit design, signal shaping, and PCB im
 - Schematic (PDF)
 - PCB layout
 - BOM
+- Gerber Files
+- Pick and Place
 
 ---
 
