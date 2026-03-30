@@ -12,7 +12,6 @@ Analog distortion pedal based on the ProCo RAT, featuring op-amp clipping, tone 
 
 
 
-<img width="796" height="507" alt="ProCo_PCB" src="https://github.com/user-attachments/assets/2d780c05-0d54-4904-8aa6-fff2b005adaf" />
 
 
 
