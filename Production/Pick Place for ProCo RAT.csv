@@ -4,8 +4,8 @@ C:\Users\Public\Documents\Altium\Projects\Pro Co RAT\Project Outputs for Pro Co 
 ========================================================================================================================
 File Design Information:
 
-Date:       24/03/26
-Time:       16:37
+Date:       30/03/26
+Time:       14:08
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
@@ -14,10 +14,10 @@ Units used: mm
 "C11","100u","TopLayer","FP-RAD-TH-D_8_0_5-L_11_5-MFG","50.4190","35.8140","0","Aluminum Electrolytic Capacitors (Radial Lead Type) 680uF ±20% 10V"
 "C9","22n","TopLayer","FP-VY2332M41Y5US63V7-MFG","47.3710","102.7430","90","Capacitor Radiall"
 "U1","LM308N","TopLayer","DIL08","133.8580","46.3550","90","Ic 8-Pin Dip Op Amp Single Bipolar Ic 8-Pin Dip Op Amp Single Bipolar"
-"S1","FS57003PLT2B2M2QE","TopLayer","SW_FS57003PLT2B2M2QE","106.0450","42.4180","270","Pushbutton Switch, FS5700 Series, 3PDT, Round Actuator, ON-ON, 1A, 9VDC,Solder | E-Switch FS57003PLT2B2M2QE"
-"R VOLUME","100K-A","TopLayer","POT_RD901F-40-15R1-B100K-00DL1","78.4860","111.3120","90","Potentiometers 9mm Linear 100K Round Shaft"
+"S1","FS57003PLT2B2M2QE","TopLayer","SW_FS57003PLT2B2M2QE","106.0450","42.4180","270","Pushbutton Switch, FS5700 Series, 3PDT, Round Actuator, ON-ON, 1A, 9VDC,Solder"
+"R VOLUME","100K-A","TopLayer","POT_RD901F-40-15R1-B100K-00DL1","77.9780","110.4230","90","Potentiometers 9mm Linear 100K Round Shaft"
 "R TONE","100K-A","TopLayer","POT_RD901F-40-15R1-B100K-00DL1","101.9810","110.4230","90","Potentiometers 9mm Linear 100K Round Shaft"
-"R DISTORTION","100K-A","TopLayer","POT_RD901F-40-15R1-B100K-00DL1","125.6030","110.2960","90","Potentiometers 9mm Linear 100K Round Shaft"
+"R DISTORTION","100K-A","TopLayer","POT_RD901F-40-15R1-B100K-00DL1","125.6030","110.4230","90","Potentiometers 9mm Linear 100K Round Shaft"
 "R20","100K","TopLayer","FP-MFR-25-MFG","152.2730","37.9730","0","RES 1.18K OHM 1/4W 1% AXIAL"
 "R12","100K","TopLayer","FP-MFR-25-MFG","117.7290","71.7550","180","RES 1.18K OHM 1/4W 1% AXIAL"
 "R11","100K","TopLayer","FP-MFR-25-MFG","74.2950","46.8630","90","RES 1.18K OHM 1/4W 1% AXIAL"
@@ -33,11 +33,11 @@ Units used: mm
 "R1","1M","TopLayer","FP-MFR-25-MFG","137.0330","92.0750","180","RES 1.18K OHM 1/4W 1% AXIAL"
 "Q1","2N5458","TopLayer","FP-29-11-MFG","84.7085","43.9420","0","2N5458 Small Signal Field-Effect Transistor, 25V, 1-Element, N-Channel, Silicon, Junction FET, TO-92"
 "PWR","DCJ200-10-A-XX-K_REVA","TopLayer","GCT_DCJ200-10-A-XX-K_REVA","35.1540","43.1930","270","Power Barrel Connector Jack 2.05mm ID (0.081), 5.50mm OD (0.217) Through Hole, Right Angle"
-"J2","NRJ6HF","TopLayer","NEUTRIK_NRJ6HF","35.0520","77.8510","180","Jack Phone 1/4 in. Silver over Bronze cnts Horizontal PCB, Slim Jacks Series | Neutrik NRJ6HF"
-"J1","NRJ6HF","TopLayer","NEUTRIK_NRJ6HF","164.7190","77.8510","0","Jack Phone 1/4 in. Silver over Bronze cnts Horizontal PCB, Slim Jacks Series | Neutrik NRJ6HF"
+"J2","NRJ6HF","TopLayer","NEUTRIK_NRJ6HF","35.0520","77.8510","180","Jack Phone 1/4 in. Silver over Bronze cnts Horizontal PCB, Slim Jacks Series"
+"J1","NRJ6HF","TopLayer","NEUTRIK_NRJ6HF","164.7190","77.8510","0","Jack Phone 1/4 in. Silver over Bronze cnts Horizontal PCB, Slim Jacks Series"
 "D4","HLMP-4700","TopLayer","FP-HLMP-4700-MFG","152.5270","50.2920","0","LED RED DIFFUSED T-1 3/4 T/H"
 "D3","1N4002","TopLayer","ONSC-AXIAL_LEAD-2-59-10_P","36.4490","60.0710","180","Standard Recovery Rectifier, 2-Pin Axial_Lead, Pb-Free, Bulk Bag"
-"D2","1N914BWT","TopLayer","FP-502-01-MFG","101.6000","89.7890","90","DIODE GEN PURP 75V 200MA SOD523F"
+"D2","1N914BWT","TopLayer","FP-502-01-MFG","102.1866","89.7890","90","DIODE GEN PURP 75V 200MA SOD523F"
 "D1","1N914BWT","TopLayer","FP-502-01-MFG","105.5370","89.5350","270","DIODE GEN PURP 75V 200MA SOD523F"
 "C13","1u","TopLayer","FP-RAD-TH-D_8_0_5-L_11_5-MFG","61.2420","43.0530","180","Aluminum Electrolytic Capacitors (Radial Lead Type) 680uF ±20% 10V"
 "C12","0.1u","TopLayer","FP-VY2332M41Y5US63V7-MFG","51.3080","54.7370","180","Capacitor Radiall"
